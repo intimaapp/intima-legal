@@ -9,7 +9,7 @@
 
 **Íntima** é um aplicativo de bem-estar para casais desenvolvido pela **AS ENGINEER INNOVATIONS SAS** (doravante "nós", "nosso" ou "a Empresa"), com sede no Uruguai.
 
-Estamos comprometidos em proteger sua privacidade e a do seu parceiro(a). Esta política explica de forma clara e transparente quais dados coletamos, como os utilizamos e quais direitos você tem sobre eles.
+Estamos comprometidos em proteger sua privacidade. Esta política explica de forma clara e transparente quais dados coletamos, como os utilizamos e quais direitos você tem sobre eles.
 
 > 🔒 **Nosso compromisso:** Suas experiências íntimas são privadas. Nunca vendemos, compartilhamos ou analisamos o conteúdo de suas sessões para fins publicitários.
 
@@ -31,7 +31,7 @@ Jurisdição: República Oriental do Uruguai
 |------|------------|-------------|
 | E-mail | Autenticação e recuperação de conta | Opcional* |
 | Conta Google | Login simplificado | Opcional* |
-| Preferências do casal | Personalizar recomendações de atividades | Opcional |
+| Preferências de atividades | Personalizar recomendações de atividades | Opcional |
 | Feedback das sessões | Melhorar a qualidade do conteúdo | Opcional |
 | Atividades favoritas | Acesso rápido ao conteúdo preferido | Opcional |
 
@@ -49,7 +49,7 @@ Jurisdição: República Oriental do Uruguai
 
 ### 3.3 Dados que NÃO coletamos
 
-- ❌ Conteúdo de conversas entre você e seu parceiro(a)
+- ❌ Conteúdo de suas conversas ou mensagens
 - ❌ Gravações de áudio ou vídeo
 - ❌ Localização geográfica
 - ❌ Dados de saúde (embora o app seja de bem-estar)

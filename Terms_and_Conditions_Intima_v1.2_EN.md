@@ -21,8 +21,8 @@ By downloading, installing, or using the **Íntima** mobile application (hereina
 
 Íntima is a digital relational wellness platform that offers:
 
-- **Curated content:** 117+ activities structured in 5 phases for conscious intimate experiences
-- **Session planner:** Tools to design and share activity plans between couples
+- **Curated content:** 84 activities structured in 5 phases for conscious intimate experiences
+- **Session planner:** Tools to design and plan activity sessions
 
 ### 2.2 Limitations and Exclusions
 
@@ -84,10 +84,6 @@ You are responsible for:
 
 **Personal and non-transferable accounts:** Each user must have their own individual account.
 
-### 4.3 Sharing Activity Plans
-
-- ✅ **Allowed:** User A creates a plan and shares it with User B
-- ✅ **Visible:** User B can see User A's identity, profile, and email
 - ❌ **Not allowed:** Sharing login credentials
 - ❌ **Not supported:** Multiple users accessing with the same account
 
@@ -99,9 +95,8 @@ You are responsible for:
 
 Íntima is currently a **completely free** application that offers:
 
-- ✅ Full access to the library of 117+ activities
+- ✅ Full access to the library of 84 activities
 - ✅ All session planning features
-- ✅ Ability to share plans with other users
 - ✅ No usage limitations
 - ✅ No advertising
 
@@ -121,28 +116,14 @@ We reserve the right to introduce premium or paid features in future versions of
 
 All content included in the Application is protected by copyright, trademarks, and other intellectual property laws:
 
-- Curated activities (117+ exercises and descriptions)
+- Curated activities (84 exercises and descriptions)
 - Interface design and user experience
 - Source code and software architecture
 - Logos, brands, and graphic elements
 
 **License granted:** We grant you a **limited, non-exclusive, non-transferable, and revocable** license to use the Application for personal and non-commercial purposes.
 
-### 6.2 User-Created Content
-
-When you create or share customized activity plans:
-
-- **You retain ownership** of your original content
-- **You grant us a non-exclusive license** to:
-  - Store and process your content on our servers
-  - Display your content to other users when you explicitly share it
-
-**Warranties:** By posting content, you warrant that:
-- You have the legal right to share it
-- It does not infringe third-party rights
-- It does not contain illegal, defamatory, or inappropriate material
-
-### 6.3 Restricted Use
+### 6.2 Restricted Use
 
 **The following is NOT permitted:**
 

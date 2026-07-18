@@ -21,8 +21,8 @@ Ao baixar, instalar ou usar o aplicativo móvel **Íntima** (doravante, "o Aplic
 
 Íntima é uma plataforma digital de bem-estar relacional que oferece:
 
-- **Conteúdo curado:** 117+ atividades estruturadas em 5 fases para experiências íntimas conscientes
-- **Planejador de sessões:** Ferramentas para projetar e compartilhar planos de atividades entre casais
+- **Conteúdo curado:** 84 atividades estruturadas em 5 fases para experiências íntimas conscientes
+- **Planejador de sessões:** Ferramentas para projetar e planejar sessões de atividades
 
 ### 2.2 Limitações e Exclusões
 
@@ -84,10 +84,6 @@ Você é responsável por:
 
 **Contas pessoais e intransferíveis:** Cada usuário deve ter sua própria conta individual.
 
-### 4.3 Compartilhar Planos de Atividades
-
-- ✅ **Permitido:** Usuário A cria um plano e compartilha com Usuário B
-- ✅ **Visível:** Usuário B pode ver identidade, perfil e e-mail do Usuário A
 - ❌ **Não permitido:** Compartilhar credenciais de acesso
 - ❌ **Não suportado:** Múltiplos usuários acessando com a mesma conta
 
@@ -99,9 +95,8 @@ Você é responsável por:
 
 Íntima é atualmente um aplicativo **completamente gratuito** que oferece:
 
-- ✅ Acesso completo à biblioteca de 117+ atividades
+- ✅ Acesso completo à biblioteca de 84 atividades
 - ✅ Todas as funcionalidades de planejamento de sessões
-- ✅ Capacidade de compartilhar planos com outros usuários
 - ✅ Sem limitações de uso
 - ✅ Sem publicidade
 
@@ -121,28 +116,14 @@ Reservamo-nos o direito de introduzir funcionalidades premium ou pagas em versõ
 
 Todo o conteúdo incluído no Aplicativo está protegido por direitos autorais, marcas registradas e outras leis de propriedade intelectual:
 
-- Atividades curadas (117+ exercícios e descrições)
+- Atividades curadas (84 exercícios e descrições)
 - Design de interface e experiência do usuário
 - Código-fonte e arquitetura de software
 - Logotipos, marcas e elementos gráficos
 
 **Licença concedida:** Concedemos a você uma licença **limitada, não exclusiva, intransferível e revogável** para usar o Aplicativo para fins pessoais e não comerciais.
 
-### 6.2 Conteúdo Criado por Usuários
-
-Quando você cria ou compartilha planos de atividades personalizados:
-
-- **Você mantém a propriedade** de seu conteúdo original
-- **Você nos concede licença não exclusiva** para:
-  - Armazenar e processar seu conteúdo em nossos servidores
-  - Mostrar seu conteúdo a outros usuários quando você compartilhar explicitamente
-
-**Garantias:** Ao publicar conteúdo, você garante que:
-- Tem o direito legal de compartilhá-lo
-- Não infringe direitos de terceiros
-- Não contém material ilegal, difamatório ou inapropriado
-
-### 6.3 Uso Restrito
+### 6.2 Uso Restrito
 
 **NÃO é permitido:**
 
