@@ -1,7 +1,7 @@
 # Terms and Conditions of Use - Íntima
 
-**Last updated:** January 28, 2026  
-**Version:** 1.2 (Production)
+**Last updated:** August 10, 2026  
+**Version:** 1.3 (Production)
 
 ---
 
@@ -23,6 +23,7 @@ By downloading, installing, or using the **Íntima** mobile application (hereina
 
 - **Curated content:** 84 activities structured in 5 phases for conscious intimate experiences
 - **Session planner:** Tools to design and plan activity sessions
+- **Voice guidance:** audio narrations generated through AI voice synthesis; they do not correspond to a real person
 
 ### 2.2 Limitations and Exclusions
 
@@ -54,7 +55,7 @@ By accepting these Terms, you represent and warrant that:
 We reserve the right to request age verification at any time. Refusal to provide verification or detection of users under 18 years of age will result in:
 
 - **Immediate suspension** of the account
-- **Report to competent authorities** if required by law (pursuant to COPPA/GDPR-K)
+- **Immediate deletion** of the detected minor's data and, where applicable law requires it (including COPPA and GDPR Art. 8), **notification to competent authorities**
 
 ### 3.3 Parental Responsibility
 
@@ -175,8 +176,8 @@ Use of Íntima is subject to our **Privacy Policy**, which forms an integral par
 **Key aspects:**
 
 - Compliance with GDPR, CCPA, and Uruguay Law 18.331
-- Anonymization of sensitive data from intimate sessions
-- Right to complete data deletion (90 days maximum)
+- Your session data is stored linked only to your account, protected by strict access rules and encryption in transit and at rest
+- Right to request deletion of your data: we process the request within 30 days, with permanent deletion completed within a maximum of 90 days
 - We do not sell personal data to third parties
 - Data encryption in transit and at rest
 
@@ -313,7 +314,7 @@ You may **terminate your account at any time** by:
 
 We may suspend or terminate your account **immediately without prior notice** if:
 
-- You violate these Terms or our Community Guidelines
+- You violate these Terms
 - We detect use by minors
 - We identify fraudulent or illegal activity
 - Your account remains inactive for more than 24 months
@@ -359,7 +360,7 @@ Both parties may mutually agree to resolve disputes through **binding arbitratio
 
 ### 15.1 Entire Agreement
 
-These Terms, together with our Privacy Policy and Community Guidelines, constitute the **entire agreement** between you and Íntima regarding the use of the Application.
+These Terms, together with our Privacy Policy, constitute the **entire agreement** between you and Íntima regarding the use of the Application.
 
 ### 15.2 Severability
 

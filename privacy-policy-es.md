@@ -1,7 +1,7 @@
 # Política de Privacidad - Íntima
 
-**Versión:** 1.1  
-**Última actualización:** 28 de enero de 2026
+**Versión:** 1.2  
+**Última actualización:** 10 de agosto de 2026
 
 ---
 
@@ -31,17 +31,18 @@ Jurisdicción: República Oriental del Uruguay
 |------|-----------|-------------|
 | Email | Autenticación y recuperación de cuenta | Opcional* |
 | Cuenta Google | Inicio de sesión simplificado | Opcional* |
+| Cuenta Apple | Inicio de sesión simplificado (iOS) | Opcional* |
 | Preferencias de actividades | Personalizar recomendaciones de actividades | Opcional |
 | Feedback de sesiones | Mejorar calidad de contenido | Opcional |
 | Actividades favoritas | Acceso rápido a contenido preferido | Opcional |
 
-*Puedes usar la app de forma completamente anónima sin proporcionar email ni vincular cuentas. En modo anónimo, tus datos se almacenan temporalmente y se eliminan automáticamente en un máximo de 30 días o al reiniciar la aplicación.*
+*Puedes usar la app de forma completamente anónima sin proporcionar email ni vincular cuentas. En modo anónimo, tus datos quedan asociados a un identificador local del dispositivo, sin verificación de identidad. Podés eliminarlos en cualquier momento desde Configuración → Cuenta → Eliminar cuenta, o solicitándolo por email (ver Sección 10); además, los datos de cuentas anónimas inactivas son elegibles para eliminación periódica.*
 
 ### 3.2 Datos recopilados automáticamente
 
 | Dato | Propósito | Servicio |
 |------|-----------|----------|
-| Eventos de uso (anónimos) | Entender qué funciones son más útiles | Firebase Analytics |
+| Eventos de uso (identificador pseudónimo) | Entender qué funciones son más útiles | Firebase Analytics |
 | Reportes de errores | Corregir problemas técnicos | Firebase Crashlytics |
 | Rendimiento de la app | Optimizar velocidad y estabilidad | Firebase Performance |
 | Modelo de dispositivo | Compatibilidad y debugging | Firebase |
@@ -81,6 +82,7 @@ Compartimos datos únicamente con los siguientes proveedores de servicios esenci
 |-----------|----------|-------------------|-----------|
 | Google Firebase | Infraestructura, auth, analytics | Email (si proporcionado), eventos de uso, crashes | EE.UU. |
 | Google Cloud | Almacenamiento de datos | Sesiones, preferencias, feedback | EE.UU. |
+| Cloudflare | Entrega de contenido de audio (CDN) | Dirección IP, identificador de la actividad solicitada | Global/EE.UU. |
 
 > ⚠️ **Importante:** NUNCA vendemos, alquilamos ni compartimos tus datos con fines publicitarios o de marketing de terceros.
 
@@ -93,7 +95,7 @@ Dado que utilizamos servicios de Google (Firebase, Cloud) con servidores en Esta
 Estas transferencias están protegidas mediante:
 
 - Cláusulas Contractuales Tipo de la UE
-- Certificación del Privacy Shield (cuando aplique)
+- Certificación bajo el Marco de Privacidad de Datos UE-EE.UU. (EU-U.S. Data Privacy Framework), del cual Google LLC es participante certificado
 - Medidas de seguridad técnicas adicionales
 
 ---
@@ -106,7 +108,7 @@ Implementamos medidas de seguridad robustas:
 - **Cifrado en reposo:** Datos almacenados con cifrado AES-256
 - **Autenticación segura:** Firebase Auth con tokens JWT
 - **Reglas de seguridad:** Acceso estricto a datos por usuario
-- **Sin almacenamiento local sensible:** Datos críticos no se guardan en el dispositivo
+- **Almacenamiento local protegido:** los datos sensibles que se guardan localmente (por ejemplo, tus actividades favoritas) están protegidos mediante iOS Keychain / cifrado AES-256 (Android)
 
 ---
 
@@ -115,11 +117,11 @@ Implementamos medidas de seguridad robustas:
 | Tipo de dato | Período de retención |
 |--------------|---------------------|
 | Cuenta de usuario registrada | Hasta que solicites su eliminación |
-| Cuenta anónima (sin registro) | Máximo 30 días, o al reiniciar la app |
+| Cuenta anónima (sin registro) | Elegible para eliminación periódica si queda inactiva; se elimina al reinstalar o limpiar datos de la app |
 | Sesiones y feedback | Hasta que solicites su eliminación |
 | Analytics (agregados) | 14 meses (política de Google) |
 | Logs de errores | 90 días |
-| Cuenta eliminada | 30 días (período de gracia), luego eliminación permanente |
+| Cuenta eliminada | 30 días de gracia tras la solicitud (podés cancelarla); eliminación permanente completada en un máximo de 90 días desde la solicitud |
 
 ---
 
@@ -140,8 +142,10 @@ Dependiendo de tu ubicación, tienes los siguientes derechos sobre tus datos per
 ### 🇺🇸 California (CCPA/CPRA)
 
 - **Conocer:** Qué datos recopilamos y cómo los usamos
+- **Corregir:** Solicitar corrección de datos personales inexactos
 - **Eliminar:** Solicitar eliminación de datos personales
 - **Opt-out:** Rechazar la venta de datos (nota: no vendemos datos)
+- **Limitar:** Limitar el uso y divulgación de tu información personal sensible — tus datos sobre preferencias y sesiones de actividades íntimas califican como información personal sensible bajo CPRA; solo los usamos para prestarte el servicio
 - **No discriminación:** Mismo servicio independientemente de tus elecciones de privacidad
 
 ### 🇧🇷 Brasil (LGPD)
@@ -180,11 +184,12 @@ Envía un email a intimaapp@gmail.com con el asunto "Solicitud de eliminación d
 
 ### Usuarios anónimos (sin registro)
 
-Si usas la app sin crear cuenta, tus datos se eliminan automáticamente:
-- Al reinstalar o limpiar datos de la aplicación
-- Automáticamente después de 30 días de inactividad
+Si usas la app sin crear cuenta, tus datos:
+- Se eliminan al reinstalar o limpiar datos de la aplicación
+- Son elegibles para eliminación periódica si tu cuenta anónima queda inactiva
+- Podés eliminarlos vos mismo en cualquier momento por las mismas vías que una cuenta registrada (Configuración → Cuenta → Eliminar cuenta, o email)
 
-> ⏱️ **Plazos:** Procesamos las solicitudes de eliminación en un máximo de **30 días**. Recibirás confirmación cuando el proceso se complete.
+> ⏱️ **Plazos:** Tu solicitud entra en un período de gracia de 30 días, durante el cual podés cancelarla. Vencido ese plazo, tus datos se eliminan de forma permanente en un máximo de 90 días desde tu solicitud original. Recibirás confirmación cuando el proceso se complete.
 
 ### ¿Qué se elimina?
 
@@ -229,7 +234,7 @@ Te recomendamos revisar esta política periódicamente.
 🏢 AS ENGINEER INNOVATIONS SAS  
 📍 Uruguay
 
-Responderemos a tu consulta en un plazo máximo de **30 días hábiles**.
+Responderemos a tu consulta, y a cualquier solicitud de ejercicio de derechos, en un plazo máximo de **30 días corridos (1 mes)**.
 
 ---
 

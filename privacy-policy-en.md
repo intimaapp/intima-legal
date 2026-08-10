@@ -1,7 +1,7 @@
 # Privacy Policy - Íntima
 
-**Version:** 1.1  
-**Last updated:** January 28, 2026
+**Version:** 1.2  
+**Last updated:** August 10, 2026
 
 ---
 
@@ -31,17 +31,18 @@ Jurisdiction: Oriental Republic of Uruguay
 |------|---------|----------|
 | Email | Authentication and account recovery | Optional* |
 | Google account | Simplified sign-in | Optional* |
+| Apple account | Simplified sign-in (iOS) | Optional* |
 | Activity preferences | Personalize activity recommendations | Optional |
 | Session feedback | Improve content quality | Optional |
 | Favorite activities | Quick access to preferred content | Optional |
 
-*You can use the app completely anonymously without providing an email or linking accounts. In anonymous mode, your data is stored temporarily and automatically deleted within a maximum of 30 days or when the application is reset.*
+*You can use the app completely anonymously without providing an email or linking accounts. In anonymous mode, your data is linked to a local device identifier, with no identity verification. You can delete it at any time from Settings → Account → Delete account, or by request via email (see Section 10); additionally, data from inactive anonymous accounts is eligible for periodic deletion.*
 
 ### 3.2 Data collected automatically
 
 | Data | Purpose | Service |
 |------|---------|---------|
-| Usage events (anonymous) | Understand which features are most useful | Firebase Analytics |
+| Usage events (pseudonymous identifier) | Understand which features are most useful | Firebase Analytics |
 | Error reports | Fix technical issues | Firebase Crashlytics |
 | App performance | Optimize speed and stability | Firebase Performance |
 | Device model | Compatibility and debugging | Firebase |
@@ -81,6 +82,7 @@ We share data only with the following essential service providers:
 |----------|---------|-------------|----------|
 | Google Firebase | Infrastructure, auth, analytics | Email (if provided), usage events, crashes | USA |
 | Google Cloud | Data storage | Sessions, preferences, feedback | USA |
+| Cloudflare | Audio content delivery (CDN) | IP address, requested activity identifier | Global/USA |
 
 > ⚠️ **Important:** We NEVER sell, rent, or share your data for third-party advertising or marketing purposes.
 
@@ -93,7 +95,7 @@ Since we use Google services (Firebase, Cloud) with servers in the United States
 These transfers are protected by:
 
 - EU Standard Contractual Clauses
-- Privacy Shield certification (where applicable)
+- Certification under the EU-U.S. Data Privacy Framework, of which Google LLC is a certified participant
 - Additional technical security measures
 
 ---
@@ -106,7 +108,7 @@ We implement robust security measures:
 - **Encryption at rest:** Data stored with AES-256 encryption
 - **Secure authentication:** Firebase Auth with JWT tokens
 - **Security rules:** Strict per-user data access
-- **No local sensitive storage:** Critical data is not stored on device
+- **Protected local storage:** sensitive data that is stored locally (e.g., your favorite activities) is protected via iOS Keychain / AES-256 encryption (Android)
 
 ---
 
@@ -115,11 +117,11 @@ We implement robust security measures:
 | Data type | Retention period |
 |-----------|-----------------|
 | Registered user account | Until you request deletion |
-| Anonymous account (no registration) | Maximum 30 days, or when app is reset |
+| Anonymous account (no registration) | Eligible for periodic deletion if inactive; deleted on reinstall or clearing app data |
 | Sessions and feedback | Until you request deletion |
 | Analytics (aggregated) | 14 months (Google policy) |
 | Error logs | 90 days |
-| Deleted account | 30 days (grace period), then permanent deletion |
+| Deleted account | 30-day grace period after request (cancellable); permanent deletion completed within a maximum of 90 days from the request |
 
 ---
 
@@ -140,8 +142,10 @@ Depending on your location, you have the following rights over your personal dat
 ### 🇺🇸 California (CCPA/CPRA)
 
 - **Know:** What data we collect and how we use it
+- **Correct:** Request correction of inaccurate personal data
 - **Delete:** Request deletion of personal data
 - **Opt-out:** Opt out of data sale (note: we don't sell data)
+- **Limit:** Limit the use and disclosure of your sensitive personal information — your data about intimate activity preferences and sessions qualifies as sensitive personal information under CPRA; we only use it to provide you the service
 - **Non-discrimination:** Same service regardless of your privacy choices
 
 ### 🇧🇷 Brazil (LGPD)
@@ -180,11 +184,12 @@ Send an email to intimaapp@gmail.com with the subject "Account deletion request"
 
 ### Anonymous users (no registration)
 
-If you use the app without creating an account, your data is automatically deleted:
-- When reinstalling or clearing application data
-- Automatically after 30 days of inactivity
+If you use the app without creating an account, your data:
+- Is deleted when reinstalling or clearing application data
+- Is eligible for periodic deletion if your anonymous account remains inactive
+- Can be deleted by you at any time through the same channels as a registered account (Settings → Account → Delete account, or email)
 
-> ⏱️ **Timeframes:** We process deletion requests within a maximum of **30 days**. You will receive confirmation when the process is complete.
+> ⏱️ **Timeframes:** Your request enters a 30-day grace period, during which you can cancel it. After that period, your data is permanently deleted within a maximum of 90 days from your original request. You will receive confirmation when the process is complete.
 
 ### What gets deleted?
 
@@ -229,7 +234,7 @@ We recommend reviewing this policy periodically.
 🏢 AS ENGINEER INNOVATIONS SAS  
 📍 Uruguay
 
-We will respond to your inquiry within a maximum of **30 business days**.
+We will respond to your inquiry, and to any rights request, within a maximum of **30 calendar days (1 month)**.
 
 ---
 

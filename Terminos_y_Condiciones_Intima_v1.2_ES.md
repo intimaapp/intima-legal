@@ -1,7 +1,7 @@
 # Términos y Condiciones de Uso - Íntima
 
-**Última actualización:** 28 de enero de 2026  
-**Versión:** 1.2 (Producción)
+**Última actualización:** 10 de agosto de 2026  
+**Versión:** 1.3 (Producción)
 
 ---
 
@@ -23,6 +23,7 @@ Al descargar, instalar o utilizar la aplicación móvil **Íntima** (en adelante
 
 - **Contenido curado:** 84 actividades estructuradas en 5 fases para experiencias íntimas conscientes
 - **Planificador de sesiones:** Herramientas para diseñar y planificar sesiones de actividades
+- **Guía de voz:** narraciones de audio generadas mediante síntesis de voz por inteligencia artificial; no corresponden a una persona real
 
 ### 2.2 Limitaciones y Exclusiones
 
@@ -54,7 +55,7 @@ Al aceptar estos Términos, usted declara y garantiza que:
 Nos reservamos el derecho de solicitar verificación de edad en cualquier momento. La negativa a proporcionar verificación o la detección de usuarios menores de 18 años resultará en:
 
 - **Suspensión inmediata** de la cuenta
-- **Reporte a autoridades competentes** si la ley lo requiere (conforme a COPPA/GDPR-K)
+- **Eliminación inmediata** de los datos del menor detectado y, cuando la ley aplicable lo exija (incluyendo COPPA y GDPR Art. 8), **notificación a las autoridades competentes**
 
 ### 3.3 Responsabilidad Parental
 
@@ -175,8 +176,8 @@ El uso de Íntima está sujeto a nuestra **Política de Privacidad**, que forma 
 **Aspectos clave:**
 
 - Cumplimiento con GDPR, CCPA y Ley 18.331 de Uruguay
-- Anonimización de datos sensibles de sesiones íntimas
-- Derecho a eliminación completa de datos (90 días máximo)
+- Los datos de tus sesiones se almacenan vinculados únicamente a tu cuenta, protegidos por reglas de acceso estrictas y cifrado en tránsito y en reposo
+- Derecho a solicitar la eliminación de tus datos: procesamos la solicitud dentro de los 30 días, con eliminación permanente completada en un máximo de 90 días
 - No vendemos datos personales a terceros
 - Encriptación de datos en tránsito y reposo
 
@@ -313,7 +314,7 @@ Puede **terminar su cuenta en cualquier momento** mediante:
 
 Podemos suspender o terminar su cuenta **inmediatamente sin previo aviso** si:
 
-- Viola estos Términos o nuestras Directrices Comunitarias
+- Viola estos Términos
 - Detectamos uso por menores de edad
 - Identificamos actividad fraudulenta o ilegal
 - Su cuenta permanece inactiva por más de 24 meses
@@ -359,7 +360,7 @@ Ambas partes pueden acordar mutuamente resolver disputas mediante **arbitraje vi
 
 ### 15.1 Acuerdo Completo
 
-Estos Términos, junto con nuestra Política de Privacidad y Directrices Comunitarias, constituyen el **acuerdo completo** entre usted e Íntima respecto al uso de la Aplicación.
+Estos Términos, junto con nuestra Política de Privacidad, constituyen el **acuerdo completo** entre usted e Íntima respecto al uso de la Aplicación.
 
 ### 15.2 Divisibilidad
 
