@@ -1,7 +1,9 @@
 # Termos e Condições de Uso - Íntima
 
-**Última atualização:** 10 de agosto de 2026  
-**Versão:** 1.3 (Produção)
+**Última atualização:** 29 de setembro de 2026  
+**Versão:** 1.3 (Produção; revisada em 29 de setembro de 2026)
+
+*O que mudou na revisão de 29 de setembro de 2026: esta revisão corrige descrições que não correspondiam ao Aplicativo; não reduz os seus direitos nem acrescenta tratamentos novos, e vale a partir da sua publicação. O texto anterior mencionava um período de carência de 30 dias para excluir a conta que o Aplicativo nunca aplicou; a exclusão sempre foi imediata e irreversível, como o Aplicativo diz (Seção 13.1). Também foi corrigido o que é apagado do celular conforme a versão e foi incluído o pedido de exclusão por e-mail atendido em 5 dias úteis (Seções 8 e 13.1). Foi retirada a «notificação no app» dos meios de aviso (Seção 12.2), porque o Aplicativo não exibe avisos: avisamos por publicação nesta página e por e-mail. Por esses meios são dados o aviso de 30 dias antes de uma mudança no modelo de acesso (Seção 5.2) e o de pelo menos 7 dias antes de uma mudança que afete significativamente funcionalidades existentes (Seção 9.2); esses prazos não mudam.*
 
 ---
 
@@ -105,7 +107,7 @@ Você é responsável por:
 
 Reservamo-nos o direito de introduzir funcionalidades premium ou pagas em versões futuras do Aplicativo. Qualquer mudança no modelo de acesso será:
 
-- Notificada com pelo menos 30 dias de antecedência
+- Anunciada com pelo menos 30 dias de antecedência pelos meios da Seção 12.2: publicação na página destes Termos e e-mail para quem tiver uma conta registrada com e-mail
 - Sujeita a termos adicionais claramente comunicados
 - Opcional para usuários existentes que desejarem manter funcionalidades básicas
 
@@ -176,10 +178,9 @@ O uso do Íntima está sujeito à nossa **Política de Privacidade**, que é par
 **Aspectos-chave:**
 
 - Conformidade com GDPR, CCPA e Lei 18.331 do Uruguai
-- Os dados de suas sessões são armazenados vinculados apenas à sua conta, protegidos por regras de acesso estritas e criptografia em trânsito e em repouso
-- Direito de solicitar a exclusão de seus dados: processamos a solicitação em até 30 dias, com exclusão permanente concluída em no máximo 90 dias
+- Os dados de suas sessões são armazenados vinculados apenas à sua conta, protegidos por regras de acesso estritas e criptografia em trânsito e em repouso nos nossos servidores. Eles revelam aspectos da sua vida sexual e são tratados como dados sensíveis (Seção 3.4 da Política de Privacidade)
+- Direito de excluir seus dados: pelo Aplicativo, eles são excluídos na hora, de forma irreversível; se você solicitar por e-mail, nós os excluímos em até 5 dias úteis após recebermos a solicitação
 - Não vendemos dados pessoais a terceiros
-- Criptografia de dados em trânsito e em repouso
 
 **Consulte a Política de Privacidade completa** para detalhes sobre coleta, uso e proteção de seus dados.
 
@@ -202,7 +203,7 @@ O uso do Íntima está sujeito à nossa **Política de Privacidade**, que é par
 - **Podemos modificar funcionalidades** para otimizar a experiência
 - **Dados podem ser migrados ou reestruturados** durante atualizações
 
-**Compromisso:** Notificaremos com 7 dias de antecedência qualquer mudança que afete significativamente funcionalidades existentes.
+**Compromisso:** Notificaremos com pelo menos 7 dias de antecedência, pelos meios da Seção 12.2 (publicação e, se você tiver uma conta registrada com e-mail, correio eletrônico), qualquer mudança que afete significativamente funcionalidades existentes.
 
 ### 9.3 Programa de Feedback
 
@@ -280,8 +281,10 @@ Reservamo-nos o direito de modificar estes Termos a qualquer momento para:
 
 **Mudanças substanciais** serão notificadas através de:
 
-- **E-mail** para o endereço registrado em sua conta
-- **Notificação no app** ao fazer login
+- **Publicação** da nova versão na página destes Termos, com a data de atualização e um resumo do que muda no início do documento
+- **E-mail** para o endereço registrado em sua conta, se você tiver uma conta registrada com e-mail
+
+O Aplicativo não exibe avisos de alterações.
 
 **Prazo de notificação:** Mínimo de **30 dias** antes de mudanças materiais entrarem em vigor.
 
@@ -301,14 +304,14 @@ Reservamo-nos o direito de modificar estes Termos a qualquer momento para:
 
 Você pode **encerrar sua conta a qualquer momento** através de:
 
-- Configurações → Conta → Excluir Conta
+- Configurações → Excluir Conta
 - E-mail para: intimaapp@gmail.com (sujeito a verificação de identidade)
 
 **Efeitos da exclusão:**
 
-- **Imediato:** Perda de acesso ao Aplicativo
-- **30 dias:** Dados pessoais marcados para exclusão
-- **90 dias:** Exclusão permanente de todos os dados (exceto logs legalmente exigidos)
+- **Pelo Aplicativo, imediata e irreversível:** sua conta e os dados vinculados a ela em nossos servidores, e seus favoritos e seu registro de atividades salvos no celular, são excluídos na hora. O resto do que o Aplicativo salva no celular é apagado conforme a versão do Aplicativo (ver Seção 7 da Política de Privacidade). Não há período de carência, não pode ser cancelada e os dados não podem ser recuperados. Antes de excluir, o Aplicativo pede que você confirme sua identidade.
+- **Por e-mail, sem precisar do Aplicativo:** a exclusão é feita em até 5 dias úteis após recebermos sua solicitação, uma vez verificado que a conta é sua (ver Seção 10 da Política de Privacidade).
+- **O que não é excluído na hora:** os eventos de uso já enviados aos nossos fornecedores expiram sozinhos entre 2 e 3 meses depois (o fornecedor elimina o que venceu em um ciclo mensal); podem levar identificadores de sessão ou de plano, que não usamos para vinculá-los a você quando sua conta é excluída. Os relatórios de erros expiram sozinhos após 90 dias e hoje não conseguimos excluí-los antes desse prazo, nem mesmo se você pediu a exclusão por e-mail; podem incluir o identificador da sua conta, que não usamos para vinculá-los a você quando ela é excluída. Os áudios de guia que o Aplicativo salvou no celular também não são apagados ao excluir a conta (ver Seções 7 e 8 da Política de Privacidade).
 
 ### 13.2 Encerramento pelo Íntima
 

@@ -1,7 +1,9 @@
 # Terms and Conditions of Use - Íntima
 
-**Last updated:** August 10, 2026  
-**Version:** 1.3 (Production)
+**Last updated:** September 29, 2026  
+**Version:** 1.3 (Production; revised September 29, 2026)
+
+*What changed in the September 29, 2026 revision: this revision corrects descriptions that did not match the Application; it does not reduce your rights or add new processing, and it applies from its publication. The previous text mentioned a 30-day grace period for deleting your account that the Application never applied; deletion was always immediate and irreversible, as the Application says (Section 13.1). We also corrected what is deleted from your phone depending on the version and added the email deletion request handled within 5 business days (Sections 8 and 13.1). We removed the "in-app notification" from the means of notice (Section 12.2), because the Application does not display notices: we give notice by publication on this page and by email. Those are the means for the 30-day notice before a change to the access model (Section 5.2) and the notice of at least 7 days before a change that significantly affects existing features (Section 9.2); those periods do not change.*
 
 ---
 
@@ -105,7 +107,7 @@ You are responsible for:
 
 We reserve the right to introduce premium or paid features in future versions of the Application. Any change to the access model will be:
 
-- Notified at least 30 days in advance
+- Announced at least 30 days in advance through the means in Section 12.2: publication on the page of these Terms and email to those who have an account registered with an email address
 - Subject to additional terms clearly communicated
 - Optional for existing users who wish to maintain basic features
 
@@ -176,10 +178,9 @@ Use of Íntima is subject to our **Privacy Policy**, which forms an integral par
 **Key aspects:**
 
 - Compliance with GDPR, CCPA, and Uruguay Law 18.331
-- Your session data is stored linked only to your account, protected by strict access rules and encryption in transit and at rest
-- Right to request deletion of your data: we process the request within 30 days, with permanent deletion completed within a maximum of 90 days
+- Your session data is stored linked only to your account, protected by strict access rules and encryption in transit and at rest on our servers. It reveals aspects of your sex life and is treated as sensitive data (Section 3.4 of the Privacy Policy)
+- Right to delete your data: from the Application it is deleted immediately and irreversibly; if you request it by email, we delete it within 5 business days after we receive the request
 - We do not sell personal data to third parties
-- Data encryption in transit and at rest
 
 **Please see the complete Privacy Policy** for details on collection, use, and protection of your data.
 
@@ -202,7 +203,7 @@ Use of Íntima is subject to our **Privacy Policy**, which forms an integral par
 - **We may modify features** to optimize the experience
 - **Data may be migrated or restructured** during updates
 
-**Commitment:** We will notify you 7 days in advance of any change that significantly affects existing features.
+**Commitment:** We will notify you at least 7 days in advance, through the means in Section 12.2 (publication and, if you have an account registered with an email address, email), of any change that significantly affects existing features.
 
 ### 9.3 Feedback Program
 
@@ -280,8 +281,10 @@ We reserve the right to modify these Terms at any time to:
 
 **Substantial changes** will be notified through:
 
-- **Email** to the address registered in your account
-- **In-app notification** upon login
+- **Publication** of the new version on the page of these Terms, with the update date and a summary of what changes at the top of the document
+- **Email** to the address registered in your account, if you have a registered account with an email
+
+The Application does not display change notices.
 
 **Notification period:** Minimum **30 days** before material changes take effect.
 
@@ -301,14 +304,14 @@ We reserve the right to modify these Terms at any time to:
 
 You may **terminate your account at any time** by:
 
-- Settings → Account → Delete Account
+- Settings → Delete Account
 - Email to: intimaapp@gmail.com (subject to identity verification)
 
 **Effects of deletion:**
 
-- **Immediate:** Loss of access to the Application
-- **30 days:** Personal data marked for deletion
-- **90 days:** Permanent deletion of all data (except legally required logs)
+- **From the Application, immediate and irreversible:** your account and the data linked to it on our servers, and your favorites and activity record stored on your phone, are deleted right away. Everything else the Application stores on your phone is deleted depending on the Application version (see Section 7 of the Privacy Policy). There is no grace period, it cannot be cancelled, and the data cannot be recovered. Before deleting, the Application asks you to confirm your identity.
+- **By email, without needing the Application:** deletion is carried out within 5 business days after we receive your request, once we have verified the account is yours (see Section 10 of the Privacy Policy).
+- **What is not deleted right away:** usage events already sent to our providers expire on their own between 2 and 3 months later (the provider deletes expired data in a monthly cycle); they may carry session or plan identifiers, which we do not use to link them to you once your account is deleted. Error reports expire on their own after 90 days and today we cannot delete them before then, not even if you requested deletion by email; they may include your account identifier, which we do not use to link them to you once the account is deleted. The guide audio the Application stored on your phone is not removed when you delete your account either (see Sections 7 and 8 of the Privacy Policy).
 
 ### 13.2 Termination by Íntima
 

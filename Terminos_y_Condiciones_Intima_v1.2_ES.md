@@ -1,7 +1,9 @@
 # Términos y Condiciones de Uso - Íntima
 
-**Última actualización:** 10 de agosto de 2026  
-**Versión:** 1.3 (Producción)
+**Última actualización:** 29 de septiembre de 2026  
+**Versión:** 1.3 (Producción; revisada el 29 de septiembre de 2026)
+
+*Qué cambió en la revisión del 29 de septiembre de 2026: esta revisión corrige descripciones que no coincidían con la Aplicación; no reduce sus derechos ni agrega tratamientos nuevos, y rige desde su publicación. El texto anterior mencionaba un período de gracia de 30 días para eliminar la cuenta que la Aplicación nunca aplicó; el borrado siempre fue inmediato e irreversible, como lo dice la Aplicación (Sección 13.1). También se corrigió qué se borra del teléfono según la versión y se agregó el pedido de eliminación por correo en 5 días hábiles (Secciones 8 y 13.1). Se quitó la «notificación in-app» de los medios de aviso (Sección 12.2), porque la Aplicación no muestra avisos: avisamos por publicación en esta página y por email. Por esos medios se dan el aviso de 30 días antes de un cambio en el modelo de acceso (Sección 5.2) y el de al menos 7 días antes de un cambio que afecte significativamente funcionalidades existentes (Sección 9.2); esos plazos no cambian.*
 
 ---
 
@@ -105,7 +107,7 @@ Usted es responsable de:
 
 Nos reservamos el derecho de introducir funcionalidades premium o de pago en futuras versiones de la Aplicación. Cualquier cambio en el modelo de acceso será:
 
-- Notificado con al menos 30 días de anticipación
+- Anunciado con al menos 30 días de anticipación por los medios de la Sección 12.2: publicación en la página de estos Términos y email a quienes tengan una cuenta registrada con email
 - Sujeto a términos adicionales claramente comunicados
 - Opcional para usuarios existentes que deseen mantener funcionalidades básicas
 
@@ -176,10 +178,9 @@ El uso de Íntima está sujeto a nuestra **Política de Privacidad**, que forma 
 **Aspectos clave:**
 
 - Cumplimiento con GDPR, CCPA y Ley 18.331 de Uruguay
-- Los datos de tus sesiones se almacenan vinculados únicamente a tu cuenta, protegidos por reglas de acceso estrictas y cifrado en tránsito y en reposo
-- Derecho a solicitar la eliminación de tus datos: procesamos la solicitud dentro de los 30 días, con eliminación permanente completada en un máximo de 90 días
+- Los datos de sus sesiones se almacenan vinculados únicamente a su cuenta, protegidos por reglas de acceso estrictas y cifrado en tránsito y en reposo en nuestros servidores. Revelan aspectos de su vida sexual y se tratan como datos sensibles (Sección 3.4 de la Política de Privacidad)
+- Derecho a eliminar sus datos: desde la Aplicación se eliminan en el momento, de forma irreversible; si lo solicita por correo, los eliminamos dentro de los 5 días hábiles desde que recibimos la solicitud
 - No vendemos datos personales a terceros
-- Encriptación de datos en tránsito y reposo
 
 **Consulte la Política de Privacidad completa** para detalles sobre recopilación, uso y protección de sus datos.
 
@@ -202,7 +203,7 @@ El uso de Íntima está sujeto a nuestra **Política de Privacidad**, que forma 
 - **Podemos modificar funcionalidades** para optimizar la experiencia
 - **Datos pueden migrarse o reestructurarse** durante actualizaciones
 
-**Compromiso:** Notificaremos con 7 días de anticipación cualquier cambio que afecte significativamente funcionalidades existentes.
+**Compromiso:** Notificaremos con al menos 7 días de anticipación, por los medios de la Sección 12.2 (publicación y, si tiene una cuenta registrada con email, correo electrónico), cualquier cambio que afecte significativamente funcionalidades existentes.
 
 ### 9.3 Programa de Feedback
 
@@ -280,8 +281,10 @@ Nos reservamos el derecho de modificar estos Términos en cualquier momento para
 
 **Cambios sustanciales** serán notificados mediante:
 
-- **Email** a la dirección registrada en su cuenta
-- **Notificación in-app** al iniciar sesión
+- **Publicación** de la nueva versión en la página de estos Términos, con la fecha de actualización y un resumen de lo que cambia al principio del documento
+- **Email** a la dirección registrada en su cuenta, si tiene una cuenta registrada con email
+
+La Aplicación no muestra avisos de cambios.
 
 **Plazo de notificación:** Mínimo **30 días** antes de que entren en vigor cambios materiales.
 
@@ -301,14 +304,14 @@ Nos reservamos el derecho de modificar estos Términos en cualquier momento para
 
 Puede **terminar su cuenta en cualquier momento** mediante:
 
-- Configuración → Cuenta → Eliminar Cuenta
+- Configuración → Eliminar Cuenta
 - Email a: intimaapp@gmail.com (sujeto a verificación de identidad)
 
 **Efectos de la eliminación:**
 
-- **Inmediato:** Pérdida de acceso a la Aplicación
-- **30 días:** Datos personales marcados para eliminación
-- **90 días:** Eliminación permanente de todos los datos (excepto logs legalmente requeridos)
+- **Desde la Aplicación, inmediato e irreversible:** se eliminan en el momento su cuenta y los datos asociados a ella en nuestros servidores, y sus favoritos y su registro de actividades guardados en el teléfono. El resto de lo que la Aplicación guarda en el teléfono se borra según la versión de la Aplicación (ver Sección 7 de la Política de Privacidad). No hay período de gracia, no se puede cancelar y los datos no se pueden recuperar. Antes de borrar, la Aplicación le pide que confirme su identidad.
+- **Por correo electrónico, sin necesidad de la Aplicación:** la eliminación se realiza dentro de los 5 días hábiles desde que recibimos su solicitud, una vez verificado que la cuenta es suya (ver Sección 10 de la Política de Privacidad).
+- **Lo que no se elimina en el momento:** los eventos de uso que ya se enviaron a nuestros proveedores caducan por sí solos entre 2 y 3 meses después (el proveedor elimina lo vencido en un ciclo mensual); pueden llevar identificadores de sesión o de plan, que al eliminar su cuenta no usamos para vincularlos con usted. Los reportes de errores caducan solos a los 90 días y hoy no podemos borrarlos antes de ese plazo, tampoco si pidió la eliminación por correo; pueden incluir el identificador de su cuenta, que al eliminarla no usamos para vincularlos con usted. Los audios de guía que la Aplicación guardó en el teléfono tampoco se borran al eliminar la cuenta (ver Secciones 7 y 8 de la Política de Privacidad).
 
 ### 13.2 Terminación por Íntima
 
