@@ -1,7 +1,9 @@
 # Terms and Conditions of Use - Íntima
 
-**Last updated:** September 29, 2026  
-**Version:** 1.3 (Production; revised September 29, 2026)
+**Last updated:** October 8, 2026  
+**Version:** 1.3 (Production; revised October 8, 2026)
+
+*What changed in the October 8, 2026 revision: the Privacy Policy incorporates a recovery copy of the database that keeps earlier versions of data for up to 7 days (previously, one hour at most), and these Terms reflect it where they describe data deletion (Sections 8 and 13.1). That copy serves solely to recover the database after a failure or after a mistake of our own; it is not used to restore accounts or data on request, and if the database were restored, the data of accounts already deleted is deleted again. Deletion of your account remains immediate and irreversible for you. The details are in Sections 8 and 10 of the Privacy Policy. This revision does not change your rights or obligations under these Terms and applies from its publication. If you do not agree, you may delete your account at any time, from the Application or by email (Section 13.1).*
 
 *What changed in the September 29, 2026 revision: this revision corrects descriptions that did not match the Application; it does not reduce your rights or add new processing, and it applies from its publication. The previous text mentioned a 30-day grace period for deleting your account that the Application never applied; deletion was always immediate and irreversible, as the Application says (Section 13.1). We also corrected what is deleted from your phone depending on the version and added the email deletion request handled within 5 business days (Sections 8 and 13.1). We removed the "in-app notification" from the means of notice (Section 12.2), because the Application does not display notices: we give notice by publication on this page and by email. Those are the means for the 30-day notice before a change to the access model (Section 5.2) and the notice of at least 7 days before a change that significantly affects existing features (Section 9.2); those periods do not change.*
 
@@ -179,7 +181,7 @@ Use of Íntima is subject to our **Privacy Policy**, which forms an integral par
 
 - Compliance with GDPR, CCPA, and Uruguay Law 18.331
 - Your session data is stored linked only to your account, protected by strict access rules and encryption in transit and at rest on our servers. It reveals aspects of your sex life and is treated as sensitive data (Section 3.4 of the Privacy Policy)
-- Right to delete your data: from the Application it is deleted immediately and irreversibly; if you request it by email, we delete it within 5 business days after we receive the request
+- Right to delete your data: from the Application it is deleted immediately and irreversibly, except for the recovery copy of up to 7 days (Privacy Policy, Section 8); if you request it by email, we delete it within 5 business days after we receive the request
 - We do not sell personal data to third parties
 
 **Please see the complete Privacy Policy** for details on collection, use, and protection of your data.
@@ -309,9 +311,9 @@ You may **terminate your account at any time** by:
 
 **Effects of deletion:**
 
-- **From the Application, immediate and irreversible:** your account and the data linked to it on our servers, and your favorites and activity record stored on your phone, are deleted right away. Everything else the Application stores on your phone is deleted depending on the Application version (see Section 7 of the Privacy Policy). There is no grace period, it cannot be cancelled, and the data cannot be recovered. Before deleting, the Application asks you to confirm your identity.
+- **From the Application, immediate and irreversible:** your account and the data linked to it are deleted right away from the database the Application uses, and so are your favorites and activity record stored on your phone. Everything else the Application stores on your phone is deleted depending on the Application version (see Section 7 of the Privacy Policy). There is no grace period, it cannot be cancelled, and neither you nor anyone else can recover the account or use it again. For up to 7 days a recovery copy of the whole database exists, which is not used to recover anyone's data, only to recover the database after a failure; if that happened, what had already been deleted is deleted again. After those 7 days, that copy no longer holds your data (see Section 8 of the Privacy Policy). Before deleting, the Application asks you to confirm your identity.
 - **By email, without needing the Application:** deletion is carried out within 5 business days after we receive your request, once we have verified the account is yours (see Section 10 of the Privacy Policy).
-- **What is not deleted right away:** usage events already sent to our providers expire on their own between 2 and 3 months later (the provider deletes expired data in a monthly cycle); they may carry session or plan identifiers, which we do not use to link them to you once your account is deleted. Error reports expire on their own after 90 days and today we cannot delete them before then, not even if you requested deletion by email; they may include your account identifier, which we do not use to link them to you once the account is deleted. The guide audio the Application stored on your phone is not removed when you delete your account either (see Sections 7 and 8 of the Privacy Policy).
+- **What is not deleted right away:** earlier versions of your data remain in the database's recovery copy for up to 7 days after deletion and are then deleted; during that period they are not used to restore your account or your data, and if the database had to be restored, what had already been deleted is deleted again (see Section 8 of the Privacy Policy). Usage events already sent to our providers expire on their own between 2 and 3 months later (the provider deletes expired data in a monthly cycle); they may carry session or plan identifiers, which we do not use to link them to you once your account is deleted. Error reports expire on their own after 90 days and today we cannot delete them before then, not even if you requested deletion by email; they may include your account identifier, which we do not use to link them to you once the account is deleted. The guide audio the Application stored on your phone is not removed when you delete your account either (see Sections 7 and 8 of the Privacy Policy).
 
 ### 13.2 Termination by Íntima
 
